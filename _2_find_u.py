@@ -13,7 +13,6 @@ def response_func():
         print('Enter a valid key')
         response_func()
 
-# -------------------- Code written by ZAARZET -----------------------
 
 ''' Testing 
 def read_x():
