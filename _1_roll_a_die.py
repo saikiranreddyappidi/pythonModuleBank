@@ -17,7 +17,6 @@ def new_game_print():
     print('-----------------------------')
 
     
-# -------------------- Code written by ZAARZET -----------------------
 
 
 def play():
@@ -61,7 +60,6 @@ def play():
             If the sum is 4, 5, 6, 8, 9 or 10 on the first roll, that sum becomes your "point".
             To win, you must continue rolling the dice until you make your point again.
             You lose if u get the sum as 7 before making your point.
-            -------------------- Code written by ZAARZET -----------------------
             """
             print(x)
             print('-----------------------------')
