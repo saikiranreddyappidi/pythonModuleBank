@@ -1,0 +1,80 @@
+1.	 You roll two six-sided dice, each with faces containing one, two, three, four, five and six spots, respectively. When the dice come to rest, the sum of the spots on the two upward faces is calculated. If the sum is 7 or 11 on the first roll, you win.if the sum is 2, 3 or 12 on the first roll (called "craps”), you lose (i.e., the "house" wins). If the sum is 4, 5, 6, 8, 9 or 10 on the first roll, that sum becomes your "point.” To win, you must continue rolling the dice until you “make your point"(i.e., roll that same point value). You lose by rolling a 7 before making your point.
+
+
+2.	A)Write a Python program to find the value of unknown positive integer U using a series of question. The question you can asked for a variable X are from these three Boolean answerable question (a)X>U, (b) X<U and (c) X==U. The true value of question X==U signifies that you found the value of U as X.Range of U is not given and the value of U can be any positive integer (may be very big number).
+You are supposed to come up with an approach to find the value of U with asking minimum number of
+questions. Your program should output the number of question asked (or number of times you performed comparison with U)
+
+B) Generate a Relation ship calculator, for finding the compatibility calculations between two people using their names,Based on the popular game FLAMES ,you need to use LEFT  where L=long time friends, E=Enemies,F=Friends,T=timepass
+Note:follow the rules of FLAMES games to our customized game LEFT
+
+
+3.	Write a password generator in Python. Be creative with how you generate passwords - strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. The passwords should be random, generating a new password every time the user asks for a new password. Ask the user how strong they want their password to be.
+a.	The starting character should be an capital
+b.	The second character should be an symbol
+c.	The third character should be a prime number
+d.	The last number should be a composite number
+e.	Password length must be size of 8<=15 characters
+f.	If all the characters fail the above condition, then print " not a valid password"
+
+
+4.Raju is maintaining a medical store, by using python help him to manage the store
+a. Update the medicines based on availability
+b. Display the count of tablet available
+c. Display the names of syrups available
+d. Display the medicine that is available in both tablet and syrup form
+e. Display no of retailers available
+f. Display all the medicines available in store
+g. Display the amount of all medicines in the store
+
+
+5. A)Guess Number game, In this game the computer thinks of a random number between 1 and 1000. The player has 10 chances to guess the number. After each guess, the computer tells the player if it was too far/ too near and also print the number in string format. Also Display the score card for every correct guess at the end of each play.
+
+B) Six friends went to Goa and are looking for accommodation for three days. After approaching a broker he suggested them  a hotel which offers two types of rooms — double rooms and triple rooms. A double room costs Rs. X, while a triple room costs Rs. Y.
+The friends can either get three double rooms or get two triple rooms. Find the minimum amount they will have to pay to accommodate all six of them.
+
+
+6. A)Using python data structure to store marks scored in subject "Python Programming" by N students in the class. Write functions to compute the following:
+a) The average score of class
+b) Highest score and lowest score of class
+c) Count of students who were absent for the test
+d) Display the no, of students in the specific range
+f) perform all the above operations on all available data structures 
+
+B) Anitha  has 3 bags that she wants to take on a flight. They weigh A, B and C kgs respectively. She wants to check-in exactly two of these bags and carry the remaining one bag with her.The airline restrictions says that the total sum of the weights of the bags that are checked-in cannot exceed D kgs and the weight of the bag which is carried cannot exceed E kgs. Find if Anitha can take all the three bags on the flight.
+
+
+7. The Chief Officer of the Electricity Board has decided to automate the customer details and calculate the electricity bill. As an initiative he wants the system to store the customer details and help him to generate the bill.
+You being their software consultant have been approached to develop software to implement the functionality of calculating the electricity bill and displaying the bill amount.
+Customer specifications will be customerId,customerName,phoneNumber,city,unitsConsumed,costPerUnit
+a)the system should be able to calculate the Electricity Bill based on the units consumed and cost per unit for a particular customer
+b)display the customer having less unitsConsumed
+c)display the details of the customer based on customerId
+d)display the phone number based on customerName
+
+
+8. A)Naveen is looking for his dream job in United States, but has some
+restrictions. He loves New Jersey and would take a job there if it paid over 40,000 a year. He hates Alabama and demands at least 100,000 to work there. Any other place he likes to work if paid 60,000 a year, otherwise he is intended to find something better.
+
+B) According to a recent survey, Biryani is the most ordered food. Ravi wants to learn how to make world-class Biryani from a MasterChef. Ravi will be required to attend the MasterChef's classes for W weeks, and the cost of classes per week is C coins. What is the total amount of money that Ravi will have to pay?
+
+
+9. A)Anil is a business man having different business, among them he also owns a cloth store. Due to pandemic his sales are very dull ,to increase the sales and attract the customers he introduced  a scheme “Lucky Winner” for first 500 customers whose purchases more than 2000rps from their stores will be given a lottery ticket .Help Anil to Generate 500 random lottery tickets and pick two lucky tickets from it as a winner.
+Note: you must adhere to the following conditions:
+•	The lottery number must be 5 digits long.
+•	All 500 ticket number must be unique.
+
+B) Lapindrome is defined as a string which when split in the middle, gives two halves having the same characters and same frequency of each character. If there are odd number of characters in the string, we ignore the middle character and check for lapindrome. For example gaga is a lapindrome, since the two halves ga and ga have the same characters with same frequency. 
+
+
+10. A class of 50 students went to restaurant for ordering the food,Write a Python program to compute the following: - 
+a.	List of students who ordered both biryani and starters 
+b.	List of students who order either biryani or starters but not both 
+c.	Number of students who order  neither biryani nor starters 
+d.	Number of students who order biryani and starters but not coke. 
+e.	Number of students who order only biryani
+f.	Number of students who order both biryani,starters and coke
+g.	Number of students who order only coke
+h.	Number of students who order only starters
+i.	Apply discard() and remove() on the datastructure
+  Note:Duplicates must be avoided,don’t use built-in methods
