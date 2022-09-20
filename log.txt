@@ -1,3 +1,2 @@
-_5_guess_game.py -> Used high/low instead of far/near.
 _7_electricity.py -> Didn't Code for City.
 _9a_lucky_winner.py -> Didn't print lottery numbers.
