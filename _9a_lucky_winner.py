@@ -16,3 +16,8 @@ while winner2_index == winner1_index:
 winner1 = lottery_tickets[winner1_index]
 winner2 = lottery_tickets[winner2_index]
 print(f'The winners are {winner1} and {winner2}')
+choice = int(input('Enter 1 to see all lottery tickets and 0 to exit: '))
+if choice == 1:
+    print(lottery_tickets)
+else:
+    exit(5)
