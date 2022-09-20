@@ -15,9 +15,9 @@ def get_unique(a: str, b: str):
 
 
 print("Enter a name : ", end=" ")
-n = input().lower()
+n = input().lower().replace(" ","")
 print("Enter another name : ", end=" ")
-m = input().lower()
+m = input().lower().replace(" ","")
 
 if len(n) < len(m):
     unique = get_unique(n, m)
