@@ -1,2 +1,1 @@
-_7_electricity.py -> Didn't Code for City.
 _9a_lucky_winner.py -> Didn't print lottery numbers.
