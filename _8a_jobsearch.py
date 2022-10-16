@@ -5,7 +5,7 @@ salary = float(input('Enter the amount that Naveen will be paid: '))
 if 40000 < salary <= 60000:
 	print('Naveen can work in New Jersey')
 elif 60000 < salary <= 100000:
-	print('Naveen can work anywhere')
+	print('Naveen can work anywhere except')
 elif salary > 100000:
 	print('Naveen can work in New Jersey,Alabama or anywhere')
 else:
